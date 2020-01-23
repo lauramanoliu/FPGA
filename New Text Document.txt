@@ -1,1 +1,10 @@
 test
+
+https://github.com/lauramanoliu/EIVE_FPGA
+
+Use Git or checkout with SVN using the web URL. 
+https://github.com/lauramanoliu/EIVE_FPGA.git
+
+
+Clone with SSH:
+git@github.com:lauramanoliu/EIVE_FPGA.git
